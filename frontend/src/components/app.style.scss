@@ -1,0 +1,36 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.test {
+
+}
+
+.logo {
+  height: 32px;
+  line-height:32px;
+  color:#FFF;
+  text-align: center;
+  font-weight:700;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 16px;
+}
+.ant-menu-submenu-title,
+.ant-menu-item {
+  font-size:12px !important;
+}
+
+.hide {
+  height:0;
+  width:0;
+  visibility: hidden;
+  overflow: hidden;
+}
